@@ -1,0 +1,19 @@
+# Please keep each section in ASCII (LC_ALL=C sort) order.
+
+# File patterns to ignore. This applies recursively to all subdirectories.
+*.bak
+*.class
+*.jar
+*.o
+*.obj
+*.orig
+*.swp
+*~
+
+# Per directory patterns to ignore. These do not apply recursively to
+# subdirectories. Each line should begin with "[!]/". Please keep the
+# directories in ASCII (LC_ALL=C sort) depth first order.
+
+.idea/
+go-sudoku-solvers
+target/
