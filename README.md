@@ -17,3 +17,9 @@ Look for per language implementation under "lang". For example, here's Julia sol
 ```shell
 lang/julia/bin/main.jl sudokus/hardest.sud
 ```
+
+The Java Dynamic solver is the fastest:
+
+```shell
+java -cp lang/java Dynamic sudokus/hardest.sud
+```
