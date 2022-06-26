@@ -4,10 +4,10 @@ Examples of sudoku solvers written in various languages using the same simple ba
 
 ## Installation
 
-Download the [latest stable version](https://github.com/selliott512/sudoku-solvers/archive/v0.9.0.zip) of sudoku-solvers and unzip it wherever you want.
+Download the [latest stable version](https://github.com/selliott512/sudoku-solvers/archive/v0.9.1.zip) of sudoku-solvers and unzip it wherever you want.
 
 ```shell
-unzip sudoku-solvers-0.9.0.zip
+unzip sudoku-solvers-0.9.1.zip
 ```
 
 ## Execution
